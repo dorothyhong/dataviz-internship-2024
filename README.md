@@ -40,9 +40,9 @@ Key contributions:
 
 | Line Chart | Scatter Plot |
 |------------|--------------|
-| <img src="screenshots/line-chart.gif" alt="Line Chart Demo" width="300"/> | <img src="screenshots/scatter-plot.gif" alt="Scatter Plot Demo" width="300"/> |
+| <img src="demo/line-chart.gif" alt="Line Chart Demo" width="300"/> | <img src="demo/scatter-plot.gif" alt="Scatter Plot Demo" width="300"/> |
 
 | Stacked Bar Chart | Stacked Area Chart |
 |-------------------|--------------------|
-| <img src="screenshots/stacked-bar-chart.gif" alt="Stacked Bar Chart Demo" width="300"/> | <img src="screenshots/stakced-area-chart.gif" alt="Stacked Area Chart Demo" width="300"/> |
+| <img src="demo/stacked-bar-chart.gif" alt="Stacked Bar Chart Demo" width="300"/> | <img src="demo/stakced-area-chart.gif" alt="Stacked Area Chart Demo" width="300"/> |
 
