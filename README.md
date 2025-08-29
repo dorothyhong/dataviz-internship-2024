@@ -2,15 +2,20 @@
 
 **Role:** Data Visualization Intern, Center for Sustainable Systems (CSS), University of Michigan  
 **Tech:** D3.js, JavaScript (ES6), HTML5/CSS3, CSV data pipelines, Drupal integration, Accessibility (WAVE/aXe)  
-**Timeline:** May–Oct 2024
+**Timeline:** May–Oct 2024  
+
+---
 
 ## Overview
-I built and maintained **100+ interactive D3.js visualizations** for the CSS Sustainability Factsheets, converting raw data into clean CSVs and reusable chart modules. I streamlined update workflows and improved accessibility and responsiveness across the site.
+During my internship, I built and maintained **100+ interactive D3.js visualizations** for the CSS Sustainability Factsheets. I converted raw data into clean CSVs and reusable chart modules, streamlined update workflows, and improved accessibility and responsiveness across the site.
 
-- Built reusable **D3 chart components** (line, stacked area, column) with tooltips, legends, and responsive SVG.
-- Created **CSV pipelines** and documented update steps to cut content refresh time ~40%.
-- Integrated visualizations into CSS’s **Drupal** site templates.
-- Validated for **accessibility** (WAVE/aXe) and consistent keyboard/contrast behavior.
+Key contributions:
+- Built reusable **D3 chart components** (line, stacked area, column) with tooltips, legends, and responsive SVG.  
+- Created **CSV pipelines** and documented update steps to cut content refresh time by ~40%.  
+- Integrated visualizations into the CSS **Drupal site templates**.  
+- Validated for **accessibility** (WAVE/aXe) and ensured consistent keyboard/contrast behavior.  
+
+---
 
 ## Public Links
 - **Live Factsheets site:** [CSS Sustainability Factsheets](https://css.umich.edu/factsheets)  
@@ -21,8 +26,32 @@ I built and maintained **100+ interactive D3.js visualizations** for the CSS Sus
   - [Electric Vehicles Factsheet](https://css.umich.edu/publications/factsheets/mobility/electric-vehicles-factsheet)  
   - [Carbon Footprint Factsheet](https://css.umich.edu/publications/factsheets/sustainability-indicators/carbon-footprint-factsheet)  
 
+---
+
 ## Highlights
-- Designed charts to be **mobile-first & accessible** (focus states, reduced motion, semantic structure).
-- Encapsulated chart behavior for **reuse** across factsheets (config options, clean data access).
-- Collaborated with researchers to **translate domain data** into clear, accurate visuals.
-- Authored short **how-to docs** so non-dev staff could safely update charts.
+- Designed charts to be **mobile-first & accessible** (focus states, prefers-reduced-motion support, semantic structure).  
+- Encapsulated chart behavior for **reuse across factsheets** (config options, clean data access).  
+- Collaborated with researchers to **translate domain data** into clear, accurate visuals.  
+- Authored short **how-to docs** so non-dev staff could safely update charts.  
+
+---
+
+## Demo Visualizations
+Below are simplified demo GIFs of interactive chart types I worked on.  
+(Full interactive versions are available on the [CSS Sustainability Factsheets site](https://css.umich.edu/factsheets).)
+
+### Line Chart
+![Line Chart Demo](screenshots/line-chart.gif)
+
+### Scatter Plot
+![Scatter Plot Demo](screenshots/scatter-plot.gif)
+
+### Stacked Bar Chart
+![Stacked Bar Chart Demo](screenshots/stacked-bar-chart.gif)
+
+### Stacked Area Chart
+![Stacked Area Chart Demo](screenshots/stakced-area-chart.gif)
+
+### Interactive Examples
+![Interactive Chart 1](screenshots/interactive-chart-1.gif)  
+![Interactive Chart 2](screenshots/interactive-chart-2.gif)
