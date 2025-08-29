@@ -43,9 +43,9 @@ Below are simplified demo GIFs of interactive chart types I worked on.
 
 | Chart Type | Demo |
 |------------|------|
-| Line Chart | <img src="demo/line-chart.gif" alt="Line Chart Demo" width="400"/> |
-| Scatter Plot | <img src="demo/scatter-plot.gif" alt="Scatter Plot Demo" width="400"/> |
-| Stacked Bar Chart | <img src="demo/stacked-bar-chart.gif" alt="Stacked Bar Chart Demo" width="400"/> |
-| Stacked Area Chart | <img src="demo/stakced-area-chart.gif" alt="Stacked Area Chart Demo" width="400"/> |
-| Interactive Chart 1 | <img src="demo/interactive-chart-1.gif" alt="Interactive Chart 1" width="400"/> |
-| Interactive Chart 2 | <img src="demo/interactive-chart-2.gif" alt="Interactive Chart 2" width="400"/> |
+| Line Chart | ![Line Chart Demo](demo/line-chart.gif) |
+| Scatter Plot | ![Scatter Plot Demo](demo/scatter-plot.gif) |
+| Stacked Bar Chart | ![Stacked Bar Chart Demo](demo/stacked-bar-chart.gif) |
+| Stacked Area Chart | ![Stacked Area Chart Demo](demo/stacked-area-chart.gif) |
+| Interactive Chart 1 | ![Interactive Chart 1](demo/interactive-chart-1.gif) |
+| Interactive Chart 2 | ![Interactive Chart 2](demo/interactive-chart-2.gif) |
