@@ -41,17 +41,17 @@ Below are simplified demo GIFs of interactive chart types I worked on.
 (Full interactive versions are available on the [CSS Sustainability Factsheets site](https://css.umich.edu/factsheets).)
 
 ### Line Chart
-![Line Chart Demo](screenshots/line-chart.gif)
+![Line Chart Demo](demo/line-chart.gif)
 
 ### Scatter Plot
-![Scatter Plot Demo](screenshots/scatter-plot.gif)
+![Scatter Plot Demo](demo/scatter-plot.gif)
 
 ### Stacked Bar Chart
-![Stacked Bar Chart Demo](screenshots/stacked-bar-chart.gif)
+![Stacked Bar Chart Demo](demo/stacked-bar-chart.gif)
 
 ### Stacked Area Chart
-![Stacked Area Chart Demo](screenshots/stakced-area-chart.gif)
+![Stacked Area Chart Demo](demo/stakced-area-chart.gif)
 
 ### Interactive Examples
-![Interactive Chart 1](screenshots/interactive-chart-1.gif)  
-![Interactive Chart 2](screenshots/interactive-chart-2.gif)
+![Interactive Chart 1](demo/interactive-chart-1.gif)  
+![Interactive Chart 2](demo/interactive-chart-2.gif)
