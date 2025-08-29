@@ -1,5 +1,3 @@
-# dataviz-internship-2024
-
 # CSS Data Visualization Internship (Summer 2024)
 
 **Role:** Data Visualization Intern, Center for Sustainable Systems (CSS), University of Michigan  
