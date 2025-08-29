@@ -41,16 +41,13 @@ Key contributions:
 Below are simplified demo GIFs of interactive chart types I worked on.  
 (Full interactive versions are available on the [CSS Sustainability Factsheets site](https://css.umich.edu/factsheets).)
 
-| Line Chart | Scatter Plot |
-|------------|--------------|
-| <img src="demo/line-chart.gif" alt="Line Chart Demo" width="300"/> | <img src="demo/scatter-plot.gif" alt="Scatter Plot Demo" width="300"/> |
-
-| Stacked Bar Chart | Stacked Area Chart |
-|-------------------|--------------------|
-| <img src="demo/stacked-bar-chart.gif" alt="Stacked Bar Chart Demo" width="300"/> | <img src="demo/stakced-area-chart.gif" alt="Stacked Area Chart Demo" width="300"/> |
-
-| Interactive Chart 1 | Interactive Chart 2 |
-|---------------------|---------------------|
-| <img src="demo/interactive-chart-1.gif" alt="Interactive Chart 1" width="300"/> | <img src="demo/interactive-chart-2.gif" alt="Interactive Chart 2" width="300"/> |
+| Chart Type |
+|------------|
+| **Line Chart** <br> <img src="demo/line-chart.gif" alt="Line Chart Demo" width="400"/> |
+| **Scatter Plot** <br> <img src="demo/scatter-plot.gif" alt="Scatter Plot Demo" width="400"/> |
+| **Stacked Bar Chart** <br> <img src="demo/stacked-bar-chart.gif" alt="Stacked Bar Chart Demo" width="400"/> |
+| **Stacked Area Chart** <br> <img src="demo/stakced-area-chart.gif" alt="Stacked Area Chart Demo" width="400"/> |
+| **Interactive Chart 1** <br> <img src="demo/interactive-chart-1.gif" alt="Interactive Chart 1" width="400"/> |
+| **Interactive Chart 2** <br> <img src="demo/interactive-chart-2.gif" alt="Interactive Chart 2" width="400"/> |
 
 
